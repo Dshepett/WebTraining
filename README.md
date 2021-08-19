@@ -1,3 +1,3 @@
 # WebTraining
-https://dshepett.github.io/WebTraining/Classcamp
-https://dshepett.github.io/WebTraining/Botanika
+- https://dshepett.github.io/WebTraining/Classcamp
+- https://dshepett.github.io/WebTraining/Botanika
